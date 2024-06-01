@@ -1,4 +1,3 @@
-
 # JU_Suttle_Bus
 
 A web application to manage the shuttle bus services for Jahangirnagar University.
